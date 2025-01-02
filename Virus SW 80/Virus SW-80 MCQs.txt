@@ -1886,3 +1886,137 @@ A) Less than headwinds.
 B) The same as headwinds.
 C) More than twice as much as headwinds.
 D) Not at all.
+
+Chapter 3 – Technical Specifications
+Video : 27-  Airframe
+Question no 1. What is the wing span of the Pipistrel Virus SW 80?
+A) 9.5 metres
+B) 10.5 metres
+C) 11.5 metres
+D) 12.5 metres
+
+Question no 2. What is the length of the Pipistrel Virus SW 80?
+A) 5.5 metres
+B) 6.5 metres
+C) 7.5 metres
+D) 8.5 metres
+
+Question no 3. What is the height of the Pipistrel Virus SW 80?
+A) 1.95 metres
+B) 2.05 metres
+C) 2.15 metres
+D) 2.25 metres
+
+Question no 4. What is the height of the Pipistrel Virus SW 80?
+A) 1.95 metres
+B) 2.05 metres
+C) 2.15 metres
+D) 2.25 metres
+
+Question no 5. What is the vertical fin area of the Pipistrel Virus SW 80?
+A) 0.90 Sq metres
+B) 1.00 Sq metres
+C) 1.10 Sq metres
+D) 1.20 Sq metres
+
+Question no 6. What is the aspect ratio of the Pipistrel Virus SW 80?
+A) 10.8
+B) 11.8
+C) 12.8
+D) 13.8
+
+Question no 7. What is the angle of the positive flaps down in Position 1 for the Pipistrel Virus SW 80?
+A) 10 degrees
+B) 15 degrees
+C) 20 degrees
+D) 25 degrees
+
+Question no 8. What is the angle of the positive flaps down in Position 2 for the Pipistrel Virus SW 80?
+A) 15 degrees
+B) 20 degrees
+C) 25 degrees
+D) 30 degrees
+
+Question no 9. What are the center of gravity limits for the Pipistrel Virus SW 80 in terms of MAC?
+A) 10% - 28%
+B) 20% - 38%
+C) 30% - 48%
+D) 40% - 58%
+
+Question no 10. What is the range of the center of gravity limits for the Pipistrel Virus SW 80 in millimeters backwards of datum?
+A) 120mm – 268mm
+B) 170mm – 318mm
+C) 220mm – 368mm
+D) 270mm – 418mm
+
+Question no 11. What is the maximum take-off weight (MTOW) of the Pipistrel Virus SW 80?
+A) 452.5 Kgs
+B) 462.5 Kgs
+C) 472.5 Kgs
+D) 482.5 Kgs
+
+Question no 12. What is the standard empty weight of the Pipistrel Virus SW 80?
+A) 255 Kgs
+B) 265 Kgs
+C) 275 Kgs
+D) 285 Kgs
+
+Question no 13. What is the maximum useful load of the Pipistrel Virus SW 80?
+A) 177.5 Kgs
+B) 187.5 Kgs
+C) 197.5 Kgs
+D) 207.5 Kgs
+
+Question no 14. What is the maximum baggage weight of the Pipistrel Virus SW 80?
+A) 10 Kgs
+B) 15 Kgs
+C) 20 Kgs
+D) 25 Kgs
+
+Question no 15. What is the maximum load per seat for the Pipistrel Virus SW 80?
+A) 100 Kgs
+B) 110 Kgs
+C) 120 Kgs
+D) 130 Kgs
+
+Question no 16. What is the minimum combined crew weight for the Pipistrel Virus SW 80?
+A) 45 Kgs
+B) 50 Kgs
+C) 55 Kgs
+D) 60 Kgs
+
+Question no 17. What is the total fuel capacity of the Pipistrel Virus SW 80?
+A) 45 Ltrs
+B) 48 Ltrs
+C) 50 Ltrs
+D) 52 Ltrs
+
+Question no 18. What is the usable fuel capacity of the Pipistrel Virus SW 80?
+A) 45 Ltrs
+B) 46 Ltrs
+C) 47 Ltrs
+D) 48 Ltrs
+
+Question no 19. What is the oil capacity of the Pipistrel Virus SW 80?
+A) 2 Ltrs
+B) 3 Ltrs
+C) 4 Ltrs
+D) 5 Ltrs
+
+Question no 20. What is the maximum positive 'G' load factor for the Pipistrel Virus SW 80?
+A) +3 G
+B) +4 G
+C) +5 G
+D) +6 G
+
+Question no 21. What is the maximum negative 'G' load factor for the Pipistrel Virus SW 80?
+A) -1 G
+B) -2 G
+C) -3 G
+D) -4 G
+
+Question no 22. What is the tested minimum safety factor for the Pipistrel Virus SW 80?
+A) 1.675
+B) 1.775
+C) 1.875
+D) 1.975
