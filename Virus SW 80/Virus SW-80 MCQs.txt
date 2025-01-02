@@ -2312,3 +2312,88 @@ A) 98 Knots
 B) 103 Knots
 C) 108 Knots
 D) 113 Knots
+
+Video  :31 - ASI Markings
+1. What is the range of the white band on the ASI for the Pipistrel Virus SW 80?
+A) 30 – 65 Knots
+B) 35 – 70 Knots
+C) 40 – 75 Knots
+D) 45 – 80 Knots
+
+2. What is the range of the white band on the ASI in Kmph for the Pipistrel Virus SW 80?
+A) 55 – 120 Kmph
+B) 60 – 125 Kmph
+C) 65 – 130 Kmph
+D) 70 – 135 Kmph
+
+3. What does the white band on the ASI represent for the Pipistrel Virus SW 80?
+A) Normal Operating Range
+B) Full Flap Operating Range
+C) Maneuvering Speed Range
+D) Maximum Speed Range
+
+4. What is the lower limit of the white band on the ASI for the Pipistrel Virus SW 80?
+A) Maximum weight Vs1
+B) Maximum weight Vso
+C) Maximum weight Vfe
+D) Maximum weight Vne
+
+5.What is the upper limit of the white band on the ASI for the Pipistrel Virus SW 80?
+A) Maximum speed with Flaps 1 (10°) Position
+B) Maximum speed with Flaps 1 (15°) Position
+C) Maximum speed with Flaps 1 (20°) Position
+D) Maximum speed with Flaps 1 (25°) Position
+
+6. What is the range of the green band on the ASI for the Pipistrel Virus SW 80?
+A) 38 – 103 Knots
+B) 40 – 105 Knots
+C) 43 – 108 Knots
+D) 45 – 110 Knots
+
+7. What is the range of the green band on the ASI in Kmph for the Pipistrel Virus SW 80?
+A) 73 – 191 Kmph
+B) 78 – 196 Kmph
+C) 83 – 201 Kmph
+D) 88 – 206 Kmph
+
+8. What does the green band on the ASI represent for the Pipistrel Virus SW 80?
+A) Full Flap Operating Range
+B) Normal Operating Range
+C) Maneuvering Speed Range
+D) Maximum Speed Range
+
+9. What is the lower limit of the green band on the ASI for the Pipistrel Virus SW 80?
+A) Maximum weight Vs1 at C of G max forward & flaps fully retracted
+B) Maximum weight Vso at C of G max forward & flaps fully retracted
+C) Maximum weight Vfe at C of G max forward & flaps fully retracted
+D) Maximum weight Vne at C of G max forward & flaps fully retracted
+
+10. What is the upper limit of the green band on the ASI for the Pipistrel Virus SW 80?
+A) Maximum structural cruising speed (in calm air)
+B) Maximum structural cruising speed (in turbulent air)
+C) Maximum speed with Flaps 1 (15°) Position
+D) Maximum speed with Flaps 2 (25°) Position
+
+11. What is the range of the yellow band on the ASI for the Pipistrel Virus SW 80?
+A) 98 – 125 Knots
+B) 103 – 130 Knots
+C) 108 – 135 Knots
+D) 113 – 140 Knots
+
+12. What does the yellow band on the ASI represent for the Pipistrel Virus SW 80?
+A) Normal Operating Range
+B) Full Flap Operating Range
+C) Maneuvering Speed Range (with caution) in calm air only
+D) Maximum Speed Range
+
+13. What is the red band on the ASI for the Pipistrel Virus SW 80?
+A) 125 Knots
+B) 130 Knots
+C) 135 Knots
+D) 140 Knots
+
+14. What does the red band on the ASI represent for the Pipistrel Virus SW 80?
+A) Normal Operating Range
+B) Full Flap Operating Range
+C) Maneuvering Speed Range
+D) Maximum Speed for all operations (VNE)
