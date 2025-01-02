@@ -2397,3 +2397,100 @@ A) Normal Operating Range
 B) Full Flap Operating Range
 C) Maneuvering Speed Range
 D) Maximum Speed for all operations (VNE)
+
+Video  :  32 -  Engine Instrument Markings
+1. What is the minimum RPM (Red Line) for the Pipistrel Virus SW 80 tachometer?
+A) 1400
+B) 1500
+C) 1600
+D) 1700
+
+2. What is the normal operating RPM range (Green) for the Pipistrel Virus SW 80 tachometer?
+A) 1500 – 5400
+B) 1600 – 5500
+C) 1700 – 5600
+D) 1800 – 5700
+
+3. What is the caution range (Yellow) for the Pipistrel Virus SW 80 tachometer?
+A) 5400 – 5700
+B) 5500 – 5800
+C) 5600 – 5900
+D) 5700 – 6000
+
+4. What is the maximum RPM (Red Line) for the Pipistrel Virus SW 80 tachometer?
+A) 5600
+B) 5700
+C) 5800
+D) 5900
+
+5. What is the minimum oil temperature (Red) for the Pipistrel Virus SW 80?
+A) 40° C
+B) 45° C
+C) 50° C
+D) 55° C
+
+6. What is the normal oil temperature range (Green) for the Pipistrel Virus SW 80?
+A) 80° C – 100° C
+B) 85° C – 105° C
+C) 90° C – 110° C
+D) 95° C – 115° C
+
+7. What is the caution range (Yellow) for the oil temperature in the Pipistrel Virus SW 80?
+A) 100° C – 130° C
+B) 105° C – 135° C
+C) 110° C – 140° C
+D) 115° C – 145° C
+
+8. What is the maximum oil temperature (Red) for the Pipistrel Virus SW 80?
+A) 130° C
+B) 135° C
+C) 140° C
+D) 145° C
+
+9. What is the caution range (Yellow) for the coolant temperature in the Pipistrel Virus SW 80?
+A) 100° C – 110° C
+B) 105° C – 115° C
+C) 110° C – 120° C
+D) 115° C – 125° C
+
+10. What is the maximum coolant temperature (Red) for the Pipistrel Virus SW 80?
+A) 110° C
+B) 115° C
+C) 120° C
+D) 125° C
+
+11. What is the minimum oil pressure (Red) for the Pipistrel Virus SW 80?
+A) 0.5 Bar (7.25 PSI)
+B) 1.0 Bar (14.5 PSI)
+C) 1.5 Bar (21.75 PSI)
+D) 2.0 Bar (29.0 PSI)
+
+12. What is the maximum oil pressure for the Pipistrel Virus SW 80?
+A) 5.0 Bar (72.5 PSI)
+B) 5.5 Bar (79.75 PSI)
+C) 6.0 Bar (87.0 PSI)
+D) 6.5 Bar (94.25 PSI)
+
+13. What type of battery does the Pipistrel Virus SW 80 use?
+A) Lead-Acid
+B) Nickel-Cadmium
+C) Lithium-Ion
+D) Lithium Phosphate
+
+14. What is the nominal voltage and amp-hour rating of the alternator in the Pipistrel Virus SW 80?
+A) 12 Volts, 6.5 Amp Hour
+B) 12 Volts, 7.0 Amp Hour
+C) 12 Volts, 7.5 Amp Hour
+D) 12 Volts, 8.0 Amp Hour
+
+15. What is the power output of the alternator at 5500 RPM in the Pipistrel Virus SW 80?
+A) 200 W
+B) 225 W
+C) 250 W
+D) 275 W
+
+16. Which of the following is NOT a function of the electrical system in the Pipistrel Virus SW 80?
+A) Charges battery
+B) Provides power to all appliances/instruments
+C) Provides supply to Nav/Strobe Lights, Cockpit Lights, Radio, GPS, Instruments
+D) Provides hydraulic power
