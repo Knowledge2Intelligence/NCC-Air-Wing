@@ -2020,3 +2020,173 @@ A) 1.675
 B) 1.775
 C) 1.875
 D) 1.975
+
+Video : 28 - Engine/Powerplant
+1. What type of engine does the Pipistrel Virus SW 80 use?
+A) Rotax 912 A (80 HP)
+B) Rotax 914 F (100 HP)
+C) Lycoming O-235 (115 HP)
+D) Continental O-200 (100 HP)
+
+2. How many cylinders does the Rotax 912 A engine have?
+A) 2
+B) 3
+C) 4
+D) 6
+
+3. What is the propeller type used in the Pipistrel Virus SW 80?
+A) Variable Pitch
+B) Fixed Pitch
+C) Constant Speed
+D) Feathering
+
+4. What is the propeller type used in the Pipistrel Virus SW 80?
+A) Variable Pitch
+B) Fixed Pitch
+C) Constant Speed
+D) Feathering
+
+5. What is the absolute ceiling at MTOW for the Pipistrel Virus SW 80?
+A) 5000 metres / 16,400 feet
+B) 5500 metres / 18,000 feet
+C) 6000 metres / 19,700 feet
+D) 6200 metres / 20,300 feet
+
+6. What is the engine performance of the Pipistrel Virus SW 80 at 5500 RPM?
+A) 50.0 KW (67 HP)
+B) 55.0 KW (74 HP)
+C) 58.0 KW (79 HP)
+D) 60.0 KW (82 HP)
+
+7. What is the engine performance of the Pipistrel Virus SW 80 at 5800 RPM?
+A) 57.6 KW (77 HP)
+B) 58.6 KW (78 HP)
+C) 59.6 KW (81 HP)
+D) 60.6 KW (83 HP)
+
+8. For how long can the Pipistrel Virus SW 80 engine operate at 59.6 KW (81 HP) at 5800 RPM?
+A) 3 minutes
+B) 4 minutes
+C) 5 minutes
+D) 6 minutes
+
+9. What is the torque of the Pipistrel Virus SW 80 engine at 4800 RPM?
+A) 93 Nm (68.6 foot pounds)
+B) 103 Nm (75.9 foot pounds)
+C) 113 Nm (83.3 foot pounds)
+D) 123 Nm (90.7 foot pounds)
+
+Question no 10. What is the compression ratio of the Pipistrel Virus SW 80 engine?
+A) 8:1
+B) 9:1
+C) 10:1
+D) 11:1
+
+11. What type of cooling system does the Pipistrel Virus SW 80 use?
+A) Air cooled Cylinder Heads, Ram Air cooled Cylinders
+B) Water cooled Cylinder Heads, Ram Air cooled Cylinders
+C) Oil cooled Cylinder Heads, Ram Air cooled Cylinders
+D) Water cooled Cylinder Heads, Oil cooled Cylinders
+
+12. What type of lubrication system does the Pipistrel Virus SW 80 use?
+A) Wet Sump Forced Lubrication
+B) Dry Sump Forced Lubrication
+C) Splash Lubrication
+D) Pressure Lubrication
+
+13. What type of ignition system does the Pipistrel Virus SW 80 use?
+A) Single Breakerless Capacitor Discharge
+B) Dual Breakerless Capacitor Discharge
+C) Magneto Ignition
+D) Distributor Ignition
+
+14. What is the maximum coolant temperature for the Pipistrel Virus SW 80 engine?
+A) 100 deg C
+B) 110 deg C
+C) 120 deg C
+D) 130 deg C
+
+15. What is the normal range for Exhaust Gas Temperature (EGT) in the Pipistrel Virus SW 80?
+A) 600 deg C – 850 deg C
+B) 650 deg C – 885 deg C
+C) 700 deg C – 900 deg C
+D) 750 deg C – 950 deg C
+
+16. What is the maximum Exhaust Gas Temperature (EGT) for the Pipistrel Virus SW 80?
+A) 850 deg C
+B) 875 deg C
+C) 900 deg C
+D) 925 deg C
+
+17. What is the maximum EGT difference allowed for the Pipistrel Virus SW 80?
+A) 20 deg C
+B) 25 deg C
+C) 30 deg C
+D) 35 deg C
+
+18. What is the normal range for oil temperature in the Pipistrel Virus SW 80?
+A) 70 deg C – 90 deg C
+B) 80 deg C – 100 deg C
+C) 90 deg C – 110 deg C
+D) 100 deg C – 120 deg C
+
+19. What is the maximum oil temperature for the Pipistrel Virus SW 80 engine?
+A) 120 deg C
+B) 130 deg C
+C) 140 deg C
+D) 150 deg C
+
+20. What is the minimum oil temperature for the Pipistrel Virus SW 80 engine?
+A) 40 deg C
+B) 45 deg C
+C) 50 deg C
+D) 55 deg C
+
+21. What is the minimum oil pressure for the Pipistrel Virus SW 80 engine?
+A) 0.5 Bar (7.25 PSI)
+B) 1.0 Bar (14.5 PSI)
+C) 1.5 Bar (21.75 PSI)
+D) 2.0 Bar (29.0 PSI)
+
+22. What is the maximum oil pressure for the Pipistrel Virus SW 80 engine?
+A) 5.0 Bar (72.5 PSI)
+B) 5.5 Bar (79.75 PSI)
+C) 6.0 Bar (87.0 PSI)
+D) 6.5 Bar (94.25 PSI)
+
+23. What is the maximum engine RPM on the ground for the Pipistrel Virus SW 80?
+A) 5000 RPM
+B) 5200 RPM
+C) 5400 RPM
+D) 5500 RPM
+
+24. What is the maximum permitted RPM for the Pipistrel Virus SW 80 engine?
+
+A) 5600 RPM
+B) 5700 RPM
+C) 5800 RPM
+D) 5900 RPM
+
+25. At what RPM is the magneto drop check performed for the Pipistrel Virus SW 80?
+A) 3500 RPM
+B) 4000 RPM
+C) 4500 RPM
+D) 5000 RPM
+
+26. What is the maximum single magneto drop allowed for the Pipistrel Virus SW 80?
+A) 200
+B) 250
+C) 300
+D) 350
+
+27. What is the maximum difference in magneto drop allowed for the Pipistrel Virus SW 80?
+A) 100
+B) 115
+C) 130
+D) 145
+
+28. What is the recommended fuel for the Pipistrel Virus SW 80?
+A) Unleaded Regular Grade 87
+B) Unleaded Super Grade 93 or above Max 10% alcohol
+C) Leaded Aviation Fuel 100LL
+D) Diesel Fuel
