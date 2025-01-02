@@ -2190,3 +2190,125 @@ A) Unleaded Regular Grade 87
 B) Unleaded Super Grade 93 or above Max 10% alcohol
 C) Leaded Aviation Fuel 100LL
 D) Diesel Fuel
+
+Video : 29 - Performance
+1. What is the take-off ground roll at MTOW for the Pipistrel Virus SW 80?
+A) 120 metres
+B) 130 metres
+C) 140 metres
+D) 150 metres
+
+2. What is the take-off ground roll over a 50 ft obstacle for the Pipistrel Virus SW 80?
+A) 200 metres
+B) 215 metres
+C) 225 metres
+D) 235 metres
+
+3. What is the best climb speed for the Pipistrel Virus SW 80?
+A) 66 Knots
+B) 76 Knots
+C) 86 Knots
+D) 96 Knots
+
+4. What is the best climb rate at MTOW for the Pipistrel Virus SW 80 at sea level?
+A) 1020 feet per minute
+B) 1120 feet per minute
+C) 1220 feet per minute
+D) 1320 feet per minute
+
+5. What is the best climb rate at 100 Kts for the Pipistrel Virus SW 80?
+A) 600 feet per minute
+B) 700 feet per minute
+C) 800 feet per minute
+D) 900 feet per minute
+
+6. What is the cruise air speed for the Pipistrel Virus SW 80?
+A) 102 Kts
+B) 112 Kts
+C) 122 Kts
+D) 132 Kts
+
+7. What is the sink rate at 50 Kts for the Pipistrel Virus SW 80 with full flaps and power idle?
+A) 340 feet per minute
+B) 390 feet per minute
+C) 440 feet per minute
+D) 490 feet per minute
+
+8. What is the minimum sink rate speed for the Pipistrel Virus SW 80?
+A) 48 Knots
+B) 58 Knots
+C) 68 Knots
+D) 78 Knots
+
+9. What is the minimum sink rate with flaps at 15° for the Pipistrel Virus SW 80?
+A) 360 feet per minute
+B) 410 feet per minute
+C) 460 feet per minute
+D) 510 feet per minute
+
+10. What is the best L/D ratio speed for the Pipistrel Virus SW 80?
+A) 54 Knots
+B) 64 Knots
+C) 74 Knots
+D) 84 Knots
+
+11. What is the best L/D ratio with flaps at 15° for the Pipistrel Virus SW 80?
+A) 15:1
+B) 16:1
+C) 17:1
+D) 18:1
+
+12. What is the final approach speed with flaps at 25° for the Pipistrel Virus SW 80?
+A) 40 Knots
+B) 45 Knots
+C) 50 Knots
+D) 55 Knots
+
+13. What is the landing roll at MTOW (SL) for the Pipistrel Virus SW 80?
+A) 310 feet
+B) 360 feet
+C) 410 feet
+D) 460 feet
+
+Video : 30  -  Airspeeds
+1. What is the stall speed with clean configuration (flaps up) for the Pipistrel Virus SW 80?
+A) 40 Knots
+B) 43 Knots
+C) 46 Knots
+D) 49 Knots
+
+2. What is the stall speed with flaps at 25° for the Pipistrel Virus SW 80?
+A) 30 Knots
+B) 35 Knots
+C) 40 Knots
+D) 45 Knots
+
+3. What is the maximum speed with flaps at 15° for the Pipistrel Virus SW 80?
+A) 60 Knots
+B) 65 Knots
+C) 70 Knots
+D) 75 Knots
+
+4. What is the maximum speed with flaps at 25° for the Pipistrel Virus SW 80?
+A) 50 Knots
+B) 55 Knots
+C) 60 Knots
+D) 65 Knots
+
+5. What is the maximum design maneuvering speed (VA) for the Pipistrel Virus SW 80?
+A) 76 Knots
+B) 81 Knots
+C) 86 Knots
+D) 91 Knots
+
+6. What is the maximum speed (VNE) for the Pipistrel Virus SW 80?
+A) 125 Knots
+B) 130 Knots
+C) 135 Knots
+D) 140 Knots
+
+7. What is the normal operating speed (VNO) for the Pipistrel Virus SW 80?
+A) 98 Knots
+B) 103 Knots
+C) 108 Knots
+D) 113 Knots
