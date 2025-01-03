@@ -2494,3 +2494,117 @@ A) Charges battery
 B) Provides power to all appliances/instruments
 C) Provides supply to Nav/Strobe Lights, Cockpit Lights, Radio, GPS, Instruments
 D) Provides hydraulic power
+
+Video : 33 - Checks & Procedures /Cockpit Preflight Inspection
+1. What should be carried out before proceeding to the aircraft?
+A) Pre-flight briefing covering the complete sortie profile
+B) Post-flight briefing covering the complete sortie profile
+C) Pre-flight briefing covering only the take-off
+D) Post-flight briefing covering only the landing
+
+2. What must be completed to ensure all participants are fully fit to fly?
+A) Pre-flight meals only
+B) Medical check only
+C) Pre-flight meals and medical check
+D) Post-flight meals and medical check
+
+3. What document must be filled in and signed before proceeding to the aircraft?
+A) Flight Log Book
+B) Authorisation Book
+C) Maintenance Log Book
+D) Navigation Log Book
+4. What form must be completed, closed, and signed before proceeding to the aircraft?
+A) Form – 600
+B) Form – 700
+C) Form – 800
+D) Form – 900
+
+5. What should be checked inside the cockpit during the preflight inspection?
+A) Instruments and instrument panel for condition
+B) Fuel quantity only
+C) Safety belts only
+D) Radio wiring only
+
+6. What should be checked regarding the fuses during the cockpit preflight inspection?
+A) Fuses should be removed
+B) Fuses should be checked
+C) Fuses should be replaced
+D) Fuses should be ignored
+
+7. What should be checked regarding the battery disconnection ring during the cockpit preflight inspection?
+A) The battery disconnection ring should be removed.
+B) The battery disconnection ring should be in its slot.
+C) The battery disconnection ring should be replaced.
+D) The battery disconnection ring should be ignored.
+
+8.After checking the battery disconnection ring in its slot, what should be verified next during the cockpit preflight inspection?
+A) Ensure all switches are turned on.
+B) Ensure all switches are turned off.
+C) Ensure some switches are turned on.
+D) Ensure some switches are turned off.
+
+9. What position should the Master Switch be in to check the Generator Fail light?
+A) Key in full left position
+B) Key in full right position
+C) Key in middle position
+D) Key in off position
+
+10. After turning the Master Switch on, what should be checked next during the cockpit preflight inspection?
+A) Check the fuel quantity.
+B) Check the Gene Fail light is ON.
+C) Check all instruments set to initial setting.
+D) Check the flaps for full deflection.
+
+11. What should be checked regarding the Pitot static lines and cables during the cockpit preflight inspection?
+A) They should be disconnected
+B) They should be correctly connected and in position
+C) They should be replaced
+D) They should be ignored
+
+12. What should be checked regarding the main wing spar during the cockpit preflight inspection?
+A) Connection, bolts, and nuts in position
+B) Only the bolts
+C) Only the nuts
+D) Only the connection
+
+13. What should be checked regarding the safety belts during the cockpit preflight inspection?
+A) Safety belts should be removed
+B) Safety belts should be undamaged
+C) Safety belts should be replaced
+D) Safety belts should be ignored
+
+14. What should be checked regarding the fuel quantity during the cockpit preflight inspection?
+A) Fuel quantity should be ignored
+B) Fuel quantity should be checked and sufficient for sortie
+C) Fuel quantity should be checked and insufficient for sortie
+D) Fuel quantity should be replaced
+
+15. What should be done after pressing the Fuel CB during the cockpit preflight inspection?
+A) Check the fuel quantity.
+B) Check the fuel not leaking from the gascolator.
+C) Check the safety belts.
+D) Check the flaps for full deflection.
+
+16. What should be checked regarding the elevator trim during the cockpit preflight inspection?
+A) Elevator trim should be set to maximum
+B) Elevator trim should be set to minimum
+C) Elevator trim should be set to neutral
+D) Elevator trim should be ignored
+
+17. What should be checked regarding the flaps during the cockpit preflight inspection?
+A) Flaps should be set to full deflection and back to ‘0’ position
+B) Flaps should be set to full deflection only
+C) Flaps should be set to ‘0’ position only
+D) Flaps should be ignored
+
+18. What should be checked regarding the radio during the cockpit preflight inspection?
+A) Ensure the radio is turned off.
+B) Ensure the radio is disconnected.
+C) Ensure the radio wiring is intact.
+D) Ensure the radio is replaced.
+
+19. What should be checked regarding the emergency parachute release handle during the cockpit preflight inspection?
+A) Safety pin should be removed
+B) Safety pin should be ‘IN’
+C) Safety pin should be replaced
+D) Safety pin should be ignored
