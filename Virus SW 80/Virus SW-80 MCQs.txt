@@ -2495,7 +2495,7 @@ B) Provides power to all appliances/instruments
 C) Provides supply to Nav/Strobe Lights, Cockpit Lights, Radio, GPS, Instruments
 D) Provides hydraulic power
 
-Video : 33 - Checks & Procedures /Cockpit Preflight Inspection
+Video : 33 - Checks & Procedures / Cockpit Preflight Inspection
 1. What should be carried out before proceeding to the aircraft?
 A) Pre-flight briefing covering the complete sortie profile
 B) Post-flight briefing covering the complete sortie profile
@@ -2608,3 +2608,6 @@ A) Safety pin should be removed
 B) Safety pin should be ‘IN’
 C) Safety pin should be replaced
 D) Safety pin should be ignored
+
+Video :  34  -  Preflight External Checks
+No Questions (Must Learn All these Checkups)
