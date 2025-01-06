@@ -2611,3 +2611,113 @@ D) Safety pin should be ignored
 
 Video :  34  -  Preflight External Checks
 No Questions (Must Learn All these Checkups)
+
+Video :35 -  Engine Cowling
+1. What should be checked for the engine cowling?
+A) Fasteners and screws in place, cowling undamaged
+B) Only fasteners in place
+C) Only screws in place
+D) None of the above
+
+2. What should be ensured for the spinner dome?
+A) No mechanical damage, bolts & nuts in place
+B) Only bolts in place
+C) Only nuts in place
+D) No mechanical damage, bolts & nuts missing
+
+3. What should be checked for the propeller?
+A) Any damage/cracks, clean, bolts & nuts secure
+B) Only damage
+C) Only cracks
+D) Only cleanliness
+
+4. What should be checked for the nose undercarriage?
+A) Any mechanical damage, hydraulic line secure, no leaks
+B) Only mechanical damage
+C) Only hydraulic line secure
+D) Only leaks
+
+5. What should be checked for the nose tyre?
+A) Cuts, cracks, and creep
+B) Only cuts
+C) Only cracks
+D) Only creep
+
+6. What should be checked on the RH side of the engine cowling?
+A) Coolant level minimum halfway to top through panel, exhaust pipes free of cracks
+B) Only coolant level
+C) Only exhaust pipes
+D) None of the above
+
+7. What should be checked for the wing leading edge?
+A) Surface condition for dents, cracks or separation, cleanliness, pitot tube firmly attached, no damage, no block
+B) Only dents
+C) Only cracks
+D) Only cleanliness
+
+8. What should be checked for the wing tip?
+A) Surface condition of tip, Nav/strobe lights for condition, wings for play
+B) Only surface condition
+C) Only Nav/strobe lights
+D) Only wings for play
+
+9. What should be checked for the wing trailing edge?
+A) Any damage, Flaperon movement, vertical or horizontal play
+B) Only damage
+C) Only Flaperon movement
+D) Only vertical play
+
+10. What should be checked for the undercarriage (starboard)?
+A) Any mechanical damage, hydraulic pipes for condition/leaks, tyre for cuts, pressure, and creep
+B) Only mechanical damage
+C) Only hydraulic pipes
+D) Only tyre
+
+11. What should be checked for the parachute self-adhesive tape?
+A) Position and separation
+B) Position and damage
+C) Separation and damage
+D) Position, separation, and damage
+
+12. What should be checked for the tail boom?
+A) Free of damage
+B) Free of cracks
+C) Free of damage and cracks
+D) Free of separation
+
+13. What should be checked for the horizontal tail surface?
+A) Cracks, hinges for play, central securing screw fastened and secure
+B) Only cracks
+C) Only hinges for play
+D) Only central securing screw
+
+14. What should be ensured for the elevator surface?
+A) Smoothness, free movement up & down, no sideward play
+B) Only smoothness
+C) Only free movement up & down
+D) Only no sideward play
+
+15. What should be checked for the vertical tail surface?
+
+A) Cracks, hinges for play, rudder cable ends intact & in position
+B) Only cracks
+C) Only hinges for play
+D) Only rudder cable ends
+
+16. What should be ensured for the fuel tank cap?
+A) Secure
+B) Clean
+C) Fastened
+D) Intact
+
+17. What should be ensured for the antenna?
+A) Firmly attached
+B) Clean
+C) Secure
+D) Intact
+
+18. What should be checked for the undercarriage (port)?
+A) Mechanical damage, hydraulic pipes for condition/leaks, tyre for cuts, pressure, and creep
+B) Only mechanical damage
+C) Only hydraulic pipes
+D) Only tyre
