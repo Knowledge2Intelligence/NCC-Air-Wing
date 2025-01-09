@@ -2612,7 +2612,7 @@ D) Safety pin should be ignored
 Video :  34  -  Preflight External Checks
 No Questions (Must Learn All these Checkups)
 
-Video :35 -  Engine Cowling
+Video : 35 -  Engine Cowling
 1. What should be checked for the engine cowling?
 A) Fasteners and screws in place, cowling undamaged
 B) Only fasteners in place
@@ -2721,3 +2721,161 @@ A) Mechanical damage, hydraulic pipes for condition/leaks, tyre for cuts, pressu
 B) Only mechanical damage
 C) Only hydraulic pipes
 D) Only tyre
+
+Video : 36,37 - Entering Cockpit
+1. What is the first step to enter the cabin?
+A) Sit onto the cabin’s edge
+B) Lift the door all the way to the bottom wing surface
+C) Drag oneself into the seat
+D) Check rudder pedals position
+
+2. What secures the glass door in position?
+A) The door handle
+B) The silver knob
+C) The round black knob
+D) The rudder pedals
+
+3. How should one support their body when entering the cabin?
+A) By placing both hands on the stick
+B) By placing both hands on the cabin edge
+C) By placing one hand on the cabin edge and one on the stick
+D) By placing both hands on the door handle
+
+4. What should be done immediately after sitting in the seat?
+A) Lower the door
+B) Fasten seat belts
+C) Check rudder pedals position
+D) Rotate the handle to lock the door
+
+5. How can the position of the rudder pedals be adjusted?
+A) By pulling the silver knob
+B) By pulling the round black knob ahead of the stick on the floor
+C) By rotating the handle
+D) By lifting the door
+
+6. What should not be done to lower the door?
+A) Grab and pull the door handle
+B) Gently pull the silver knob
+C) Rotate the handle
+D) Verify that all three closing points are secured
+
+7. How should the door be closed securely?
+A) By pulling the round black knob
+B) By lifting the door
+C) By rotating the handle so that it locks
+D) By dragging oneself into the seat
+
+8. What should be verified after closing the door?
+A) The position of the rudder pedals
+B) That all three closing points are secured
+C) The position of the silver knob
+D) The position of the round black knob
+
+9. Who should help fasten the seat belts?
+A) The pilot
+B) The co-pilot
+C) The ground crew
+D) The passenger
+
+10. What should be done first after putting on the headsets and adjusting the mic position?
+A) Select Avionics switch ON
+B) Check all instruments and EMS display ON
+C) Select Master Switch ON
+D) Obtain permission from ATC for start up
+
+11. What should be done after selecting the Master Switch ON?
+A) Select Avionics switch ON
+B) Check all instruments and EMS display ON
+C) Select intercom switch ON
+D) Remove safety pin from Parachute Emergency Release Handle
+
+12. What should be checked after selecting the Avionics switch ON?
+A) All instruments and EMS display ON
+B) Intercom switch ON
+C) RT set ON
+D) Obtain permission from ATC for start up
+
+13. What should be done after checking all instruments and EMS display ON?
+A) Select Master Switch ON
+B) Select intercom switch ON
+C) Remove safety pin from Parachute Emergency Release Handle
+D) Obtain permission from ATC for start up
+
+14. What should be done after selecting the intercom switch ON?
+A) Check reading str 5
+B) Select Master Switch ON
+C) Obtain permission from ATC for start up
+D) Remove safety pin from Parachute Emergency Release Handle
+
+15. What should be done after selecting the RT set ON?
+A) Check reading str 5
+B) Select Master Switch ON
+C) Obtain permission from ATC for start up
+D) Remove safety pin from Parachute Emergency Release Handle
+
+16. What should be done after obtaining permission from ATC for start up?
+A) Select Master Switch ON
+B) Select Avionics switch ON
+C) Remove safety pin from Parachute Emergency Release Handle
+D) Check all instruments and EMS display ON
+
+17. What should be done after removing the safety pin from the Parachute Emergency Release Handle?
+A) Select Master Switch ON
+B) Select Avionics switch ON
+C) Check all instruments and EMS display ON
+D) Obtain permission from ATC for start up
+
+Video :  38 - Checks Before Engine Start
+1. What should be checked first before engine start?
+A) Confirm Pitot cover removed
+B) Check fuel quantity sufficient for duration of flight
+C) Confirm Parachute safety pin removed
+D) Engage wheel brakes and apply parking brakes
+
+2. What should be done after confirming the Pitot cover is removed?
+A) Check fuel quantity sufficient for duration of flight
+B) Confirm Parachute safety pin removed
+C) Engage wheel brakes and apply parking brakes
+D) Check fuel valve open, fuel CB IN, fuel pump on (by sound)
+
+3. What should be confirmed regarding the parachute before engine start?
+A) Parachute safety pin inserted
+B) Parachute safety pin removed
+C) Parachute safety pin secured
+D) Parachute safety pin checked
+
+4. What should be done after engaging the wheel brakes and applying parking brakes?
+A) Check fuel valve open, fuel CB IN, fuel pump on (by sound)
+B) Confirm Parachute safety pin removed
+C) Select Avionics OFF and both magnetos ON
+D) Check area around and propeller area clear
+
+5. What should be done in case of a cold start?
+A) Select Avionics OFF and both magnetos ON
+B) Select choke fully open by pulling choke lever fully back
+C) Check area around and propeller area clear
+D) Engage starter button till engine starts
+
+6. What should be done after selecting Avionics OFF and both magnetos ON?
+A) Check area around and propeller area clear
+B) Engage starter button till engine starts
+C) Select Avionics switch ON
+D) Check oil pressure registering and within limits
+
+7. What should be done after engaging the starter button till the engine starts?
+A) Select Avionics switch ON
+B) Check oil pressure registering and within limits
+C) Set throttle to adjust RPM below 2500
+D) Select choke lever fully forward (Closed) while maintaining RPM
+
+8. What should be done before starting the engine?
+A) Check fuel quantity sufficient for duration of flight
+B) Confirm Pitot cover removed
+C) Check area around and propeller area clear. Take clearance from ground crew for start
+D) Engage wheel brakes and apply parking brakes
+
+9. What should be done after setting the throttle to adjust RPM below 2500?
+A) Select Avionics switch ON
+B) Check oil pressure registering and within limits
+C) Select choke lever fully forward (Closed) while maintaining RPM
+D) Check Engine parameters normal
