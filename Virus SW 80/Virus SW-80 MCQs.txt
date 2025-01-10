@@ -2161,7 +2161,6 @@ C) 5400 RPM
 D) 5500 RPM
 
 24. What is the maximum permitted RPM for the Pipistrel Virus SW 80 engine?
-
 A) 5600 RPM
 B) 5700 RPM
 C) 5800 RPM
@@ -2313,7 +2312,7 @@ B) 103 Knots
 C) 108 Knots
 D) 113 Knots
 
-Video  :31 - ASI Markings
+Video  : 31 - ASI Markings
 1. What is the range of the white band on the ASI for the Pipistrel Virus SW 80?
 A) 30 – 65 Knots
 B) 35 – 70 Knots
@@ -2879,3 +2878,365 @@ A) Select Avionics switch ON
 B) Check oil pressure registering and within limits
 C) Select choke lever fully forward (Closed) while maintaining RPM
 D) Check Engine parameters normal
+
+Video : 39  - Engine Warm Up
+1. What is the maximum RPM for engine warm-up?
+A) 2000 RPM
+B) 2500 RPM
+C) 3000 RPM
+D) 3500 RPM
+
+2. At what oil temperature should the engine warm-up be completed?
+A) 40°C
+B) 45°C
+C) 50°C
+D) 55°C
+
+3. Why should engine warm-up be avoided at idle RPM?
+A) It causes the engine to overheat
+B) It causes spark plugs to turn dirty
+C) It wastes fuel
+D) It increases engine noise
+
+4. What should be the position of the engine nose during warm-up?
+A) Pointing away from the wind
+B) Pointing into the wind
+C) Pointing to the left
+D) Pointing to the right
+
+5. What parameters should be monitored during engine warm-up?
+A) Engine temperature and pressure
+B) Fuel level and oil pressure
+C) RPM and fuel consumption
+D) Oil temperature and coolant level
+
+Video : 40 -  Magneto Drop Check
+1. What should be done first before performing the Magneto Drop Check?
+A) Check engine oil temperature 50 deg Celsius or above
+B) Indicate intention to ground crew, check Parking Brakes ON, Control stick fully backward
+C) Slowly open throttle to set engine RPM 4000
+D) Select Left magneto switch off, note drop in RPM, call out drop, not more than 300
+
+2. At what engine RPM should the throttle be set during the Magneto Drop Check?
+A) 3000 RPM
+B) 3500 RPM
+C) 4000 RPM
+D) 4500 RPM
+
+3. What is the maximum allowable drop in RPM when the Left magneto switch is turned off?
+A) 200
+B) 250
+C) 300
+D) 350
+
+4. What should be done after turning the Left magneto switch back on?
+A) Check engine oil temperature 50 deg Celsius or above
+B) Check RPM regains to 4000
+C) Select Right magneto switch off, note drop in RPM, call out drop, not more than 300
+D) Open full throttle and check engine RPM between 5300 – 5500
+
+5. What is the maximum allowable difference in RPM drop between the Left and Right magneto switches?
+A) 100
+B) 115
+C) 130
+D) 150
+
+6. What should be the engine RPM at full throttle at sea level and 25 deg C?
+A) 5000 – 5200 RPM
+B) 5100 – 5300 RPM
+C) 5300 – 5500 RPM
+D) 5500 – 5700 RPM
+
+7. What should be done after closing the throttle fully?
+A) Note idle RPM
+B) Check engine oil temperature 50 deg Celsius or above
+C) Select Left magneto switch off, note drop in RPM, call out drop, not more than 300
+D) Open full throttle and check engine RPM between 5300 – 5500
+
+Video : 41 - Checks Before Taxy
+1. What should be done first before taxiing?
+A) Check engine parameters with operational limits
+B) Check and call out compass heading, ensure reading parking heading
+C) Take RT permission from ATC for taxi
+D) Switch on wing tip Nav/strobe lights
+
+2. What should be ensured about the flight instruments before taxiing?
+A) They are turned off
+B) They are serviceable
+C) They are set to standby mode
+D) They are calibrated
+
+3. To what should the altimeter be set before taxiing?
+A) QFE
+B) QNH
+C) QNE
+D) QFF
+
+4. What should be done after checking the engine parameters?
+A) Take RT permission from ATC for taxi
+B) Check and call out compass heading
+C) Switch on wing tip Nav/strobe lights
+D) Check area around and taxi path clear
+
+5. What should be done after taking RT permission from ATC for taxi?
+A) Check engine parameters with operational limits
+B) Check and call out compass heading
+C) Check area around and taxi path clear
+D) Set throttle to idle and wave off chocks
+
+6. What should be done after ensuring the area around and taxi path are clear?
+A) Check engine parameters with operational limits
+B) Set throttle to idle and wave off chocks
+C) Take RT permission from ATC for taxi
+D) Switch on wing tip Nav/strobe lights
+
+7. What should be done after being cleared by ground crew?
+A) Select parking brakes OFF
+B) Check engine parameters with operational limits
+C) Check and call out compass heading
+D) Take RT permission from ATC for taxi
+
+Video  :   42,43,44 Taxy Procedure
+1. What should be done first after being cleared by ground crew and chocks removed?
+A) Open throttle to set engine RPM 1800
+B) Select Parking Brakes OFF
+C) Apply brakes to check serviceability
+D) Adjust direction with rudder pedals
+
+2. At what RPM should the engine be set when starting to taxi?
+A) 1500 RPM
+B) 1800 RPM
+C) 2000 RPM
+D) 2200 RPM
+
+3. What should be done as the aircraft starts moving forward?
+A) Increase throttle
+B) Close throttle and apply brakes to check serviceability
+C) Adjust direction with rudder pedals
+D) Select Parking Brakes
+
+4. How should the aircraft be taxied in dispersal?
+A) At fast walking pace
+B) At slow walking speed
+C) At jogging speed
+D) At maximum RPM
+
+5. How should the speed be adjusted during taxiing?
+A) Using only the brakes
+B) Using only the throttle
+C) Using RPM and brakes
+D) Using rudder pedals
+
+6. What should be avoided when adjusting direction during taxiing?
+A) Using rudder pedals
+B) Using brakes against power
+C) Using throttle
+D) Using parking brakes
+
+7. What should be done in case of prolonged taxiing?
+A) Stop the engine and restart
+B) Warm up the engine during taxiing
+C) Increase throttle to maximum RPM
+D) Apply brakes continuously
+
+8. How often should brake serviceability be checked during prolonged taxiing?
+A) Every 100 metres
+B) Every 200 metres
+C) Every 300 metres
+D) Every 400 metres
+
+9. What should be done when approaching the taxi holding point short of the runway?
+A) Increase throttle
+B) Apply brakes gradually to stop aircraft
+C) Select Parking Brakes OFF
+D) Adjust direction with rudder pedals
+
+10. What should be ensured after selecting parking brakes ON at the taxi holding point?
+A) Aircraft is moving forward
+B) Aircraft is not moving forward
+C) Engine RPM is at maximum
+D) Rudder pedals are adjusted
+
+Video : 45 - Vital actions before takeoff
+1. What should be checked first before takeoff?
+A) Select flaps as required for takeoff
+B) Check parachute safety pin removed
+C) Check wind direction and speed
+D) Note time and give RT call for line up
+
+2. What should be done with the flaps before takeoff?
+A) Set to Flaps 1 or Flaps 2 depending on runway available and winds
+B) Set to Flaps 3
+C) Set to Flaps 0
+D) Set to Flaps 4
+
+3. What position should the trimmer be in before takeoff?
+A) Fully forward
+B) Fully backward
+C) Neutral position
+D) Slightly forward
+
+4. What should be done with the choke before takeoff?
+A) Fully backward
+B) Fully forward
+C) Neutral position
+D) Slightly backward
+
+5. What should be ensured about the fuel valve before takeoff?
+A) Closed, fuel quantity adequate
+B) Open, fuel quantity adequate
+C) Closed, fuel quantity low
+D) Open, fuel quantity low
+
+6. Which lights should be turned on before takeoff?
+A) Wing tip Nav/strobe lights
+B) Landing light
+C) Taxi light
+D) Beacon light
+
+7. Which switches should be turned on before takeoff?
+A) Master/Avionics/Magneto switches
+B) Fuel pump switch
+C) Pitot heat switch
+D) Anti-ice switch
+
+8. What should be done with the altimeter before takeoff?
+A) Set to QFE
+B) Set to QNH
+C) Set to airfield elevation, back to QNH, note correction
+D) Set to standard pressure
+
+9. What engine parameters should be called out before takeoff?
+A) Oil Pr/Oil Temp/CT 1 & 2/EGT 1 & 2/Fuel Qty (%)
+B) RPM/Fuel Flow/Manifold Pressure
+C) Airspeed/Altitude/Vertical Speed
+D) Battery Voltage/Amperage
+
+10. What should be checked regarding the movement of controls before takeoff?
+A) Full and free movement, no fouling or grinding noise
+B) Partial movement, slight grinding noise
+C) Limited movement, no noise
+D) No movement, loud grinding noise
+
+11. What should be confirmed with the copilot before takeoff?
+A) Harness tight and door closed and locked
+B) Fuel quantity adequate
+C) Wind direction and speed
+D) Altimeter set to QNH
+
+12. What should be noted before giving the RT call for line up?
+A) Engine parameters
+B) Wind direction and speed
+C) Time
+D) Fuel quantity
+
+Video : 46 - Line Up Procedure
+1. What should be checked first after being cleared to line up by the ATC?
+A) Release parking brakes
+B) Open throttle to 1800 RPM
+C) Check base leg, approach, and runway clear
+D) Enter the runway at 90 degrees to runway heading
+
+2. What should be done after releasing the parking brakes?
+A) Check base leg, approach, and runway clear
+B) Open throttle to 1800 RPM and move forward
+C) Enter the runway at 90 degrees to runway heading
+D) Slowly turn with the help of rudder pedals
+
+3. At what RPM should the throttle be set when moving forward?
+A) 1500 RPM
+B) 1800 RPM
+C) 2000 RPM
+D) 2200 RPM
+
+4. What should be rechecked before entering the runway?
+A) Parking brakes
+B) Throttle setting
+C) Approach and runway clear
+D) Nose wheel alignment
+
+5. At what angle should the aircraft enter the runway?
+A) 45 degrees to runway heading
+B) 60 degrees to runway heading
+C) 90 degrees to runway heading
+D) 120 degrees to runway heading
+
+6. How should the aircraft be aligned with the center line?
+A) By using the throttle
+B) By using the brakes
+C) By using the rudder pedals
+D) By using the ailerons
+
+7. What should be done to ensure the nose wheel is straight before applying brakes?
+A) Roll straight for a short distance
+B) Turn sharply with the rudder pedals
+C) Increase throttle to maximum RPM
+D) Apply brakes immediately
+
+Video : 47 - Checks on line up
+1. What should be done first during the checks on line-up?
+A) Check compass reading runway heading
+B) Throttle to idle, aircraft on brakes, aircraft not moving forward
+C) Take off path ahead and above clear
+D) Give RT call to ATC for take off
+
+2. What should be checked regarding the compass during the line-up checks?
+A) Ensure it is turned off
+B) Ensure it is set to QNH
+C) Check compass reading runway heading, note correction if any
+D) Ensure it is set to QFE
+
+3. What should be ensured about the take-off path during the line-up checks?
+A) It is clear ahead and above
+B) It is clear to the left and right
+C) It is clear behind the aircraft
+D) It is clear below the aircraft
+
+4.  What should be done after ensuring the take-off path is clear?
+A) Check compass reading runway heading
+B) Throttle to idle, aircraft on brakes, aircraft not moving forward
+C) Give RT call to ATC for take off
+D) Check engine parameters
+
+5. What is the purpose of giving an RT call to ATC during the line-up checks?
+A) To request permission for taxiing
+B) To request permission for take-off
+C) To request permission for landing
+D) To request permission for engine start
+
+Video : 48 - Take off Procedure
+1. What should be done first after being cleared for take-off by the ATC?
+A) Check engine RPM 5300 – 5500
+B) Release brakes and open throttle slowly to full power
+C) Maintain direction with rudder pedals
+D) Check ASI registering
+
+2. What should the engine RPM be during take-off?
+A) 5000 – 5200 RPM
+B) 5300 – 5500 RPM
+C) 5500 – 5700 RPM
+D) 5700 – 5900 RPM
+
+3. How should the direction be maintained as the aircraft starts moving forward?
+A) Using the throttle
+B) Using the brakes
+C) Using the rudder pedals
+D) Using the ailerons
+
+4. What should be checked as the aircraft accelerates?
+A) Engine temperature
+B) Fuel quantity
+C) ASI registering
+D) Altimeter setting
+
+5. At what speed should the control stick be brought to 1/3rd back to lift the nose wheel off the ground?
+A) 30 – 33 Knots
+B) 35 – 38 Knots
+C) 40 – 43 Knots
+D) 45 – 48 Knots
+
+6. What should be done as the speed approaches 40 – 43 Knots?
+A) Gently pull back on the stick to get airborne
+B) Increase throttle to maximum RPM
+C) Apply brakes to slow down
+D) Check engine parameters
