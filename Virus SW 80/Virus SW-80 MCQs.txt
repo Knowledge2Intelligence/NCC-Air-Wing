@@ -3240,3 +3240,90 @@ A) Gently pull back on the stick to get airborne
 B) Increase throttle to maximum RPM
 C) Apply brakes to slow down
 D) Check engine parameters
+
+Video : 49 - Checks after Take Off
+1. What should be ensured first after take-off?
+A) Accelerate at full power
+B) Safely airborne, correct climbing attitude, wings level
+C) Apply brakes momentarily to stop wheels rotating
+D) Select flaps at Flaps 1 position
+
+2. What should be done to stop the wheels from rotating after take-off?
+A) Apply brakes momentarily
+B) Reduce engine RPM
+C) Select flaps to Flaps 0 position
+D) Turn off the landing light
+
+3. At what height and speed should the flaps be checked at Flaps 1 position?
+A) Height 100 ft, speed 40 knots
+B) Height 150 ft, speed 50 knots
+C) Height 200 ft, speed 60 knots
+D) Height 250 ft, speed 70 knots
+
+4. At what height and speed should the flaps be selected to Flaps 0 position?
+A) Height 100 ft, speed 40 knots
+B) Height 150 ft, speed 50 knots
+C) Height 300 ft, speed 70 knots
+D) Height 350 ft, speed 80 knots
+
+5. What should be done with the engine RPM after reaching a height of 300 ft?
+A) Increase engine RPM to maximum
+B) Reduce engine RPM to below 5300 or by 10% (whichever is less)
+C) Maintain engine RPM at 5500
+D) Turn off the engine
+
+6. When should the landing light be turned off after take-off?
+A) After reaching a height of 150 ft
+B) After reaching a height of 300 ft
+C) After reducing engine RPM
+D) After checking engine parameters
+
+7. What should be checked after turning off the landing light?
+A) Flaps position
+B) Engine parameters within limits
+C) Altimeter setting
+D) Fuel quantity
+
+Video : 50 - Climb & Cruise Procedure
+1. At what speed should the aircraft climb during a cross-country or cruise flight?
+A) 80 Knots
+B) 90 Knots
+C) 100 Knots
+D) 110 Knots
+
+2. What should be done upon reaching cruise altitude?
+A) Increase engine power to maximum
+B) Establish horizontal flight and set engine power to cruise setting (5300 RPM)
+C) Decrease engine power to idle
+D) Perform a steep climb
+
+3. What should the engine power be set to during cruise flight?
+A) 5000 RPM
+B) 5200 RPM
+C) 5300 RPM
+D) 5500 RPM
+
+4. How often should checks of engine and flight parameters be carried out during cruise flight?
+A) Every 2 minutes
+B) Every 3 minutes
+C) Every 5 minutes
+D) Every 10 minutes
+
+Video : 51 -  Checks during Cruise
+1. What should be checked first during cruise?
+A) Engine parameters within operational limits
+B) Height, speed, and direction correct
+C) Oil Pressure and Oil Temperature
+D) Fuel quantity
+
+2. What should be done with the engine parameters during cruise?
+A) Ignore them
+B) Call them out
+C) Adjust them to maximum
+D) Turn off the engine
+
+3. Which engine parameters should be checked during cruise?
+A) Oil Pressure, Oil Temperature, CT 1 & CT 2, EGT 1 & EGT 2, Fuel quantity
+B) RPM, Fuel Flow, Manifold Pressure
+C) Airspeed, Altitude, Vertical Speed
+D) Battery Voltage, Amperage
