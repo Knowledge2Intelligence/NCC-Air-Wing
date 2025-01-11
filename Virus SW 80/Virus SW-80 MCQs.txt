@@ -3327,3 +3327,34 @@ A) Oil Pressure, Oil Temperature, CT 1 & CT 2, EGT 1 & EGT 2, Fuel quantity
 B) RPM, Fuel Flow, Manifold Pressure
 C) Airspeed, Altitude, Vertical Speed
 D) Battery Voltage, Amperage
+
+Video : 52,53,54 - Descent Procedure
+1. What should be obtained prior to descent?
+A) Fuel quantity check
+B) RT permission from the ATC and confirm rejoin instructions
+C) Engine parameters check
+D) Altimeter setting
+
+2. What should be done once cleared to descend?
+A) Increase throttle to maximum
+B) Orientate with respect to the destination airfield
+C) Perform a steep climb
+D) Turn off the engine
+
+3. What should be done with the throttle during descent?
+A) Set to full power
+B) Set to idle
+C) Set to half power
+D) Set to maximum RPM
+
+4. What should be done as the speed approaches VNO or below during descent?
+A) Increase altitude
+B) Lower attitude to maintain speed below VNO while losing altitude
+C) Maintain current altitude
+D) Increase throttle to maximum
+
+5. What should be done during descent if the throttle is set to idle?
+A) Keep the throttle at idle continuously
+B) Open the throttle slightly for short periods of time
+C) Increase the throttle to maximum
+D) Turn off the engine
