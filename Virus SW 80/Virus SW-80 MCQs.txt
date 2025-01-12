@@ -3358,3 +3358,77 @@ A) Keep the throttle at idle continuously
 B) Open the throttle slightly for short periods of time
 C) Increase the throttle to maximum
 D) Turn off the engine
+
+Video : 55 - Checks After Landing
+1. What is the first step after landing and clearing off the runway?
+a) Select Flaps to position ‘0’
+b) Note flight time
+c) Stop aircraft
+d) Turn off landing lights
+
+2. What should be done after stopping the aircraft?
+a) Turn off landing lights
+b) Select Flaps to position ‘0’
+c) Note flight time
+d) Parking brakes ON
+
+3. What position should the flaps be set to after landing?
+a) Position ‘1’
+b) Position ‘2’
+c) Position ‘0’
+d) Position ‘3’
+
+4. When should the landing lights be turned off?
+a) After noting flight time
+b) After selecting flaps to position ‘0’
+c) After parking brakes are off
+d) After taxiing to dispersal
+
+5. What should be noted after turning off the landing lights?
+a) Parking brakes OFF
+b) Flight time
+c) Flaps position
+d) Aircraft speed
+
+6. What should be done before taxiing to dispersal?
+a) Turn off landing lights
+b) Select flaps to position ‘0’
+c) Note flight time
+d) Parking brakes OFF
+
+Video : 56 - Switch Off  Procedure
+1. What is the first step in the switch-off procedure?
+a) Parking Brakes ON
+b) Close throttle to idle
+c) Radio Telephony call
+d) Select all green switches off
+
+2. How long should the engine be allowed to cool down after closing the throttle to idle?
+a) 30 seconds
+b) 1 minute
+c) 2 minutes
+d) 5 minutes
+
+3. What should be done after ensuring the aircraft is not moving forward?
+a) Insert Parachute safety pin
+b) Release parking brakes
+c) Give clearance to position chocks
+d) Exit aircraft
+
+4. When should the avionics be turned off?
+a) After the engine cool time is over
+b) After parking brakes are released
+c) After the Radio Telephony call
+d) After exiting the aircraft
+
+5. What should be done after turning off both magnetos and the master switch?
+a) Close throttle to idle
+b) Insert Parachute safety pin
+c) Fuel Pump CB OUT / Fuel shut off valve close
+d) Exit aircraft
+
+6. What is the final step in the switch-off procedure?
+a) Release parking brakes
+b) Insert Parachute safety pin
+c) Exit aircraft and position pitot cover
+d) Select all green switches off
