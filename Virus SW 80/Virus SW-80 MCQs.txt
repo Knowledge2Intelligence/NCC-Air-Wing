@@ -3432,3 +3432,179 @@ a) Release parking brakes
 b) Insert Parachute safety pin
 c) Exit aircraft and position pitot cover
 d) Select all green switches off
+
+57,58 - Circuit Approach & Landing
+1. What is the recommended altitude for flying a normal circuit in the Virus SW 80 aircraft?
+A) 500 ft AGL
+B) 700 ft AGL
+C) 1000 ft AGL
+D) 1200 ft AGL
+
+2. At what speed should the Virus SW 80 aircraft be flown during a normal circuit?
+A) 60 – 65 Knots
+B) 65 – 70 Knots
+C) 70 – 75 Knots
+D) 75 – 80 Knots
+
+3. Which factors significantly affect the RPM required to maintain speed and height on the circuit?
+A) Total weight of the aircraft
+B) Airfield elevation
+C) Ambient temperature
+D) All of the above
+
+4. What should be used to maintain consistency in the circuit pattern?
+A) GPS coordinates
+B) Prominent ground features
+C) Air traffic control instructions
+D) Visual flight rules
+
+5. Why is it important to consider the All Up Weight of the aircraft when applying suggested settings?
+A) To ensure fuel efficiency
+B) To maintain proper speed and height
+C) To avoid engine overheating
+D) To comply with air traffic regulations
+
+6. What is the purpose of a normal circuit procedure?
+A) To perform aerobatic maneuvers
+B) To position the aircraft for a safe landing
+C) To test the engine performance
+D) To practice emergency procedures
+
+7. Which leg of the circuit is flown in the direction of takeoff and starts at the commencement of the takeoff roll?
+A) Crosswind leg
+B) Downwind leg
+C) Base leg
+D) Takeoff leg
+
+8. During which leg of the circuit is the aircraft in continuous climb?
+A) Crosswind leg
+B) Downwind leg
+C) Base leg
+D) Takeoff leg
+
+9. What is the main objective during the takeoff leg?
+A) To reach a safe height to commence the crosswind turn
+B) To level out the aircraft
+C) To reduce speed
+D) To perform a steep turn
+
+10. Which leg of the circuit is flown perpendicular (90°) to the direction of takeoff, moving away from the runway?
+A) Takeoff leg
+B) Crosswind leg
+C) Downwind leg
+D) Base leg
+
+11. When does the crosswind leg start?
+A) At the commencement of the takeoff roll
+B) At the commencement of the crosswind turn
+C) At the commencement of the turn onto downwind
+D) At the commencement of the final approach
+
+12. Which leg of the circuit is parallel to the runway and in the opposite direction of takeoff?
+A) Takeoff leg
+B) Crosswind leg
+C) Downwind leg
+D) Base leg
+
+13. When does the downwind leg start?
+A) At the commencement of the takeoff roll
+B) At the commencement of the crosswind turn
+C) From the time the aircraft rolls out parallel to the runway in the opposite direction
+D) At the commencement of the turn onto final approach
+
+14. When does the downwind leg end?
+A) At the commencement of the crosswind turn
+B) At the commencement of the turn onto downwind
+C) At the commencement of the base leg turn
+D) At the commencement of the final approach
+
+15. What is the direction of the downwind leg relative to the takeoff direction?
+A) Perpendicular to the takeoff direction
+B) Parallel to the runway and in the same direction as takeoff
+C) Parallel to the runway and in the opposite direction of takeoff
+D) At a 45-degree angle to the takeoff direction
+
+16. What is the primary purpose of the downwind leg in the circuit procedure?
+A) To perform aerobatic maneuvers
+B) To position the aircraft for a safe landing
+C) To test the engine performance
+D) To practice emergency procedures
+
+17. When does the crosswind leg end?
+A) At the commencement of the crosswind turn
+B) At the commencement of the turn onto downwind
+C) At the commencement of the base leg turn
+D) At the commencement of the final approach
+
+18. What is included in the duration of the crosswind leg?
+A) The time when the aircraft is in continuous climb
+B) The time when the aircraft is descending
+C) The time when circuit height is attained and the aircraft levels out
+D) The time when the aircraft is on final approach
+
+19. What is the primary purpose of the crosswind leg in the circuit procedure?
+A) To perform aerobatic maneuvers
+B) To position the aircraft for a safe landing
+C) To test the engine performance
+D) To practice emergency procedures
+
+20. Which leg of the circuit is flown perpendicular (90°) to the takeoff/landing direction, flying towards the runway?
+A) Takeoff leg
+B) Crosswind leg
+C) Downwind leg
+D) Base leg
+
+21. When does the base leg start?
+A) At the commencement of the takeoff roll
+B) At the commencement of the crosswind turn
+C) When the aircraft rolls out 90° to the direction of takeoff/landing
+D) At the commencement of the final approach
+
+22. When does the base leg end?
+A) At the commencement of the crosswind turn
+B) At the commencement of the turn onto downwind
+C) At the commencement of the turn onto final approach
+D) At the commencement of the takeoff roll
+
+23. What is the primary purpose of the base leg in the circuit procedure?
+A) To perform aerobatic maneuvers
+B) To position the aircraft for a safe landing
+C) To test the engine performance
+D) To practice emergency procedures
+
+24. What is the direction of the base leg relative to the takeoff/landing direction?
+A) Parallel to the runway and in the same direction as takeoff
+B) Parallel to the runway and in the opposite direction of takeoff
+C) Perpendicular (90°) to the takeoff/landing direction, flying towards the runway
+D) At a 45-degree angle to the takeoff/landing direction
+
+25. Which leg of the circuit is flown in the direction of the runway in use?
+A) Takeoff leg
+B) Crosswind leg
+C) Downwind leg
+D) Final approach
+
+26. When does the final approach start?
+A) At the commencement of the takeoff roll
+B) At the commencement of the crosswind turn
+C) From the top of the final approach
+D) At the commencement of the turn onto downwind
+
+27. When does the final approach end?
+A) At the commencement of the crosswind turn
+B) At the commencement of the turn onto downwind
+C) At the commencement of the base leg turn
+D) When the aircraft comes to a stop on the runway
+
+28. What is the primary purpose of the final approach in the circuit procedure?
+A) To perform aerobatic maneuvers
+B) To position the aircraft for a safe landing
+C) To test the engine performance
+D) To practice emergency procedures
+
+29. What is the direction of the final approach relative to the runway in use?
+A) Perpendicular to the runway
+B) Parallel to the runway
+C) In the direction of the runway
+D) At a 45-degree angle to the runway
+
