@@ -3608,3 +3608,223 @@ B) Parallel to the runway
 C) In the direction of the runway
 D) At a 45-degree angle to the runway
 
+Video : 59 - Take Off
+1. What should be done after receiving RT clearance from the ATC?
+A) Perform aerobatic maneuvers
+B) Perform a normal takeoff as mentioned in the procedure
+C) Test the engine performance
+D) Practice emergency procedures
+
+2.  What speed should the aircraft accelerate to after raising flaps to position ‘0’?
+A) 60 knots
+B) 65 knots
+C) 75 knots
+D) 80 knots
+
+3. At what altitude should the turning path be checked and a climbing turn commenced?
+A) 300 feet AGL
+B) 400 feet AGL
+C) 500 feet AGL
+D) 600 feet AGL
+
+4. What is the purpose of the climbing turn after reaching 500 feet AGL?
+A) To perform aerobatic maneuvers
+B) To roll out 90° to the runway heading, flying away from the runway
+C) To test the engine performance
+D) To practice emergency procedures
+
+5. What should be checked before commencing the climbing turn?
+A) Engine performance
+B) Fuel quantity
+C) Turning path to the left/right clear
+D) Landing gear position
+
+Video : 60 - Crosswind
+1. When should you commence leveling out during the crosswind leg?
+A) 100 feet before reaching 700 feet AGL
+B) 50 feet before reaching 700 feet AGL
+C) 50 feet before reaching 500 feet AGL
+D) 100 feet before reaching 500 feet AGL
+
+2. What speed should be maintained during the crosswind leg?
+A) 60 knots
+B) 65 knots
+C) 75 knots
+D) 80 knots
+
+3. What engine RPM should be selected to maintain 75 knots during the crosswind leg?
+A) Approximately 4000 RPM
+B) Approximately 4200 RPM
+C) Approximately 4300 RPM
+D) Approximately 4500 RPM
+
+4. At what ground position should you commence a level turn to roll out on downwind?
+A) At the beginning of the crosswind leg
+B) At the end of the crosswind leg
+C) At an appropriate ground position
+D) At 500 feet AGL
+
+Video : 61,62,63 - Downwind
+1. What is the recommended lateral displacement for the downwind leg?
+A) 0.5 NM
+B) 0.7 NM
+C) 1.0 NM
+D) 1.5 NM
+
+2. Why is a lateral displacement of 0.7 NM recommended for the downwind leg?
+A) To perform aerobatic maneuvers
+B) To provide a good margin of safety in case of engine failure
+C) To test the engine performance
+D) To practice emergency procedures
+
+3. What should be checked once rolled out on the downwind leg?
+A) Fuel quantity
+B) Engine temperature
+C) Height, speed, and direction
+D) Landing gear position
+
+4. What should be carried out during the downwind leg checks?
+A) Check fuel quantity
+B) Check engine temperature
+C) Check height, speed, and direction
+D) Check landing gear position
+
+5. What should be checked to ensure the aircraft is flying parallel to the runway during the downwind leg?
+A) Engine parameters
+B) Displacement
+C) Fuel quantity
+D) Landing lights
+
+6. What is the recommended height and speed during the downwind leg?
+A) 500 feet AGL / 60 – 65 knots
+B) 600 feet AGL / 65 – 70 knots
+C) 700 feet AGL / 70 – 75 knots
+D) 800 feet AGL / 75 – 80 knots
+
+7. Which engine parameters should be called out during the downwind leg?
+A) Oil Pr / Oil Temp / CT 1 & CT 2 / EGT 1 & EGT 2 / Fuel quantity
+B) RPM / Manifold Pressure / Fuel Flow / Battery Voltage
+C) Coolant Temp / Oil Pressure / Fuel Pressure / Exhaust Temp
+D) Airspeed / Altitude / Heading / Vertical Speed
+
+8. What action should be taken regarding the landing lights during the downwind leg?
+A) Turn them off
+B) Flash them intermittently
+C) Turn them on
+D) Adjust their brightness
+
+9. What communication action should be taken during the downwind leg?
+A) Make an RT call
+B) Send a text message
+C) Use hand signals
+D) Flash the landing lights
+
+10. What should be done when abeam the live dumbbell?
+A) Increase engine power to full RPM
+B) Reduce engine power to idle RPM
+C) Maintain engine power at cruise RPM
+D) Turn off the engine
+
+11. What speed should be maintained while reducing engine power to idle RPM?
+A) 60 knots
+B) 65 knots
+C) 70 knots
+D) 75 knots
+
+12. What should be done as the speed reduces below 70 knots?
+A) Select flaps to position ‘0’ (Flaps retracted)
+B) Select flaps to position ‘1’ (Flaps 15°)
+C) Select flaps to position ‘2’ (Flaps 25°)
+D) Maintain current flap position
+
+13. What is the target speed before turning onto the base leg?
+A) 50 knots
+B) 55 knots
+C) 60 knots
+D) 65 knots
+
+14. At what clock code position should the turn onto the base leg be commenced for a left-hand circuit?
+A) 0800 to 0730
+B) 0900 to 0830
+C) 0700 to 0630
+D) 0600 to 0530
+
+Video : 64 - Base Leg
+1. What should be the aircraft's heading after rolling out on the base leg?
+A) 45° to the runway heading
+B) 90° to the runway heading
+C) 180° to the runway heading
+D) 270° to the runway heading
+
+2. What is the recommended speed to maintain during the base leg of the Virus SW 80 aircraft?
+A) 50 knots
+B) 55 knots
+C) 60 knots
+D) 65 knots
+
+3. At what height should the aircraft aim to reach the end of the base leg?
+A) 300 feet
+B) 400 feet
+C) 500 feet
+D) 600 feet
+
+4. When should the turn onto finals be commenced during the base leg?
+A) When the threshold/touchdown point is at 0900/0300 clock code position
+B) When the threshold/touchdown point is at 0930/0230 clock code position
+C) When the threshold/touchdown point is at 1000/0400 clock code position
+D) When the threshold/touchdown point is at 1100/0500 clock code position
+
+5. What is the speed to maintain during the final approach?
+A) 50 knots
+B) 55 knots
+C) 60 knots
+D) 65 knots
+
+Video : 65,66 - Final Approach
+1. What should be the throttle position during the final approach?
+A) Full throttle
+B) Half throttle
+C) Idle
+D) Quarter throttle
+
+2. What speed should be maintained when selecting flaps to position '2' (Flaps 25°)?
+A) Below 45 knots
+B) Below 50 knots
+C) Below 55 knots
+D) Below 60 knots
+
+3. What is the target speed to maintain during the final approach?
+A) 45 knots
+B) 50 knots
+C) 55 knots
+D) 60 knots
+
+4. At what speed should the aircraft touch down under normal wind conditions?
+A) 30 knots
+B) 35 knots
+C) 40 knots
+D) 45 knots
+
+5. When should the nose wheel be allowed to touch down?
+A) After speed has been reduced to below 30 knots
+B) After speed has been reduced to below 27 knots
+C) After speed has been reduced to below 25 knots
+D) After speed has been reduced to below 20 knots
+
+6. What should be used to control descent during the final approach?
+A) Flaps
+B) Throttle
+C) Rudder
+D) Ailerons
+
+7. What should be used to control speed during the final approach?
+A) Flaps
+B) Throttle
+C) Attitude
+D) Ailerons
+
+8. What action should be taken once the aircraft is on the ground?
+A) Apply full throttle
+B) Apply braking action and hold the control stick fully back
+C) Raise the nose wheel immediately
+D) Steer the aircraft using ailerons
