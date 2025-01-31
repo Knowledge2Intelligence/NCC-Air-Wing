@@ -3828,3 +3828,37 @@ A) Apply full throttle
 B) Apply braking action and hold the control stick fully back
 C) Raise the nose wheel immediately
 D) Steer the aircraft using ailerons
+
+Video : Circuit Pattern Scheme
+
+Chapter 6 – Stall & Spin Recovery
+Video : 67,68 - Stall
+1. What is the stall speed of the Virus SW 80 Garud aircraft with clean configuration?
+(A) 43 Kts
+(B) 38 Kts
+(C) 34 Kts
+(D) 30 Kts
+
+2. At what flap angle does the Virus SW 80 Garud aircraft have a stall speed of 38 Kts?
+(A) Clean
+(B) Flaps 15°
+(C) Flaps 25°
+(D) Flaps 30°
+
+3. What is the minimum height to commence a stall maneuver in the Virus SW 80 Garud aircraft?
+(A) 1000 ft AGL
+(B) 1200 ft AGL
+(C) 1500 ft AGL
+(D) 2000 ft AGL
+
+4. What is the height loss in recovery from a stall maneuver in the Virus SW 80 Garud aircraft?
+(A) 100 ft
+(B) 150 ft
+(C) 200 ft
+(D) 250 ft
+
+5. What is the stall speed of the Virus SW 80 Garud aircraft with Flaps 25° configuration?
+(A) 43 Kts
+(B) 38 Kts
+(C) 34 Kts
+(D) 30 Kts
