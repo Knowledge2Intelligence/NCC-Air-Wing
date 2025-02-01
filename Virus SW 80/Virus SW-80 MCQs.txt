@@ -4098,3 +4098,64 @@ a) Increase throttle
 b) Apply opposite rudder
 c) Take recovery action
 d) Maintain the spin
+
+Video : 77,78 - Spin Recovery, Note
+1. What should be the first action to take when recovering from a spin?
+a) Apply full rudder in the direction of the spin
+b) Set throttle to idle
+c) Move stick centrally and progressively forward
+d) Check speed 50 Kt
+
+2. Which direction should the rudder be applied during spin recovery?
+a) In the direction of the spin
+b) Opposite to the direction of the spin
+c) Neutral position
+d) Alternating directions
+
+3. What should be done with the control stick during spin recovery?
+a) Move stick fully back
+b) Move stick fully forward
+c) Move stick centrally and progressively forward
+d) Move stick to the left
+
+4. What action should be taken as the aircraft stops spinning?
+a) Apply full throttle
+b) Stop stick movement and centralise rudders
+c) Move stick fully back
+d) Apply full rudder in the direction of the spin
+
+5. What should be checked before pulling up to regain horizontal flight?
+a) Throttle position
+b) Rudder position
+c) Speed 50 Kts
+d) Altitude
+
+6. What tends to happen to the aircraft after spinning for just 90° - 180°?
+a) It continues spinning
+b) It re-establishes normal flight by itself
+c) It enters a dive
+d) It stalls
+
+7. What should be done with the control stick during the recovery phase?
+a) Move it fully back
+b) Move it fully forward
+c) Keep it centered along the lateral axis
+d) Move it to the left
+
+8. What should not be used to stop the spin during recovery?
+a) Rudder
+b) Ailerons
+c) Elevator
+d) Throttle
+
+9. How should recovery from a dive be effected after the aircraft stops spinning?
+a) Using abrupt stick movements
+b) Using gentle stick movements
+c) Using full throttle
+d) Using full rudder
+
+10. What must not be exceeded during the maneuver?
+a) Maximum altitude
+b) Minimum speed
+c) VNE (Velocity Never Exceed)
+d) Maximum G-force
