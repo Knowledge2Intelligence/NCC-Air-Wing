@@ -3862,3 +3862,239 @@ Video : 67,68 - Stall
 (B) 38 Kts
 (C) 34 Kts
 (D) 30 Kts
+
+Video : 69 - Internal Checks before Stall
+1. What is the minimum height required for recovery during a stall in the Virus SW 80?
+a) 1000 ft AGL
+b) 1500 ft AGL
+c) 2000 ft AGL
+d) 2500 ft AGL
+
+2. Which airframe configuration is not acceptable before performing a stall?
+a) Clean
+b) Flaps 15°
+c) Flaps 25°
+d) Flaps 40°
+
+3. Before performing a stall, which parameter must be checked within limits?
+a) Fuel levels
+b) Engine parameters
+c) Oil pressure
+d) Hydraulic fluid levels
+
+4. When performing stall recovery, why is location important?
+a) To ensure there is no other air traffic nearby
+b) To ensure there is sufficient sector length available for recovery maneuvers
+c) To ensure the aircraft is over water
+d) To ensure good weather conditions
+
+5. Which of the following is NOT a factor to check before performing a stall?
+a) Height sufficient for recovery
+b) Airframe configuration
+c) Engine parameters within limits
+d) Weight of the pilot
+
+Video :  70 -  External Checks before Stall
+1. What should be checked within the local flying area before a stall? 
+a) Fuel level 
+b) Weather forecast 
+c) Assigned sector 
+d) Radio communication
+
+2. Why is it important to avoid populated or prohibited areas before a stall? 
+a) To conserve fuel 
+b) To maintain visual contact with the ground 
+c) To ensure safety in case of an emergency 
+d) To comply with local regulations
+
+3. Which of the following should be avoided during a stall maneuver? 
+a) Dense forest areas 
+b) Large bodies of water 
+c) Open fields 
+d) Mountainous regions
+
+4. Why is it necessary to be aware of cloud cover before a stall? 
+a) To prevent icing 
+b) To ensure visibility 
+c) To avoid turbulence 
+d) To maintain altitude
+
+5. What should be selected as a point of reference before initiating a stall? 
+a) A nearby airport 
+b) A prominent landmark 
+c) A neighboring aircraft 
+d) A road or highway
+
+Video : 71 - Stall Recovery Procedure
+1. What is the first step in the stall recovery procedure?
+a) Smoothly open full power
+b) Move control stick forward to reduce angle of attack
+c) Resume horizontal flight
+d) Ensure not to exceed 70 Kts / 55 Kts during recovery
+
+2. Where should the horizon be positioned for a clean stall?
+a) 1/3rd from top of canopy
+b) On top of canopy
+c) Below the canopy
+d) At the same level as the canopy
+
+3. At what speed should you resume horizontal flight during stall recovery?
+a) 70 Kts
+b) 55 Kts
+c) 50 Kts
+d) 60 Kts
+
+4. When opening full power, what should you do with the throttle lever?
+a) Move it to the midway position
+b) Move it to the fully forward position
+c) Move it to the backward position
+d) Keep it at idle
+
+5. What is the maximum speed during recovery from a stall with Flaps 15°?
+a) 50 Kts
+b) 55 Kts
+c) 60 Kts
+d) 70 Kts
+
+6. What is the maximum speed during recovery from a stall with Flaps 25°?
+a) 50 Kts
+b) 55 Kts
+c) 70 Kts
+d) 60 Kts
+
+Video :  72 - Safety checks after recovery from stall
+1. What is the first safety check after recovery from a stall?
+(a) RT call for 'Operations Normal'
+(b) Orientate with point of reference
+(c) Check engine parameters within limits
+(d) Increase engine power to maximum
+
+2. After recovering from a stall, what should be done to ensure proper orientation?
+(a) Perform a complete 360-degree turn
+(b) Orientate with a point of reference
+(c) Communicate with ground control
+(d) Check fuel levels
+
+3. What RT call should be made after ensuring engine parameters are within limits and orientating with a point of reference?
+(a) "Engine parameters normal"
+(b) "Reference point aligned"
+(c) "Operations Normal"
+(d) "Recovery complete"
+
+4. Why is it important to check engine parameters within limits after a stall recovery?
+(a) To ensure the aircraft is flying straight
+(b) To verify fuel levels
+(c) To ensure the engine is functioning properly and safely
+(d) To adjust the flight path
+
+5. What is the main purpose of orientating with a point of reference after stall recovery?
+(a) To locate the nearest airport
+(b) To ensure the aircraft is on the correct heading
+(c) To communicate with other aircraft
+(d) To adjust altitude
+
+Video :73 - Spin
+1. What is prohibited on the Virus SW 80 aircraft?
+a) Steep turns
+b) Intentional entry into spin
+c) Power-off stalls
+d) Lazy eights
+
+2. At what Centre of Gravity positions is it difficult to fly the Virus SW 80 aircraft into a spin?
+a) Forward Centre of Gravity positions
+b) Aft Centre of Gravity positions
+c) Neutral Centre of Gravity positions
+d) Any Centre of Gravity positions
+
+3. What is the minimum height to commence a one-turn spin on the Virus SW 80 aircraft?
+a) 1500 ft AGL
+b) 2000 ft AGL
+c) 2500 ft AGL
+d) 3000 ft AGL
+
+4. What is required for the Virus SW 80 aircraft to enter a spin?
+a) Full aileron deflections
+b) Full rudder deflections
+c) Partial rudder deflections
+d) No control deflections
+
+5. Why is intentional entry into spin prohibited on the Virus SW 80 aircraft?
+a) The aircraft is not designed for spins
+b) The aircraft is difficult to recover from spins
+c) The aircraft is designed to be difficult to fly into a spin
+d) The aircraft has a high risk of structural damage during spins
+
+Video : 74 - Internal Checks Before Spin
+1. What is the minimum height required for recovery before initiating a spin?
+a) 1500 ft AGL
+b) 2000 ft AGL
+c) 2500 ft AGL
+d) 3000 ft AGL
+
+2. What should be the airframe configuration before initiating a spin?
+a) Flaps extended
+b) Clean
+c) Landing gear down
+d) Spoilers deployed
+
+3. What should be checked regarding engine parameters before initiating a spin?
+a) Engine parameters within limits
+b) Engine parameters above limits
+c) Engine parameters below limits
+d) Engine parameters not checked
+
+4. What should be ensured about the location before initiating a spin?
+a) Sufficient sector length available
+b) Near populated areas
+c) Over water bodies
+d) Near mountains
+
+Video  :75 -  External Checks Before Spin
+1. Where should the check be conducted before initiating a spin?
+a) Outside the local flying area
+b) Within the local flying area in the allotted sector
+c) Over populated areas
+d) Over prohibited areas
+
+2. What type of area should be avoided before initiating a spin?
+a) Populated or prohibited areas
+b) Open fields
+c) Deserted areas
+d) Forested areas
+
+3. What should be avoided in terms of weather conditions before initiating a spin?
+a) Clear skies
+b) Away from clouds and large expanses of water
+c) Near thunderstorms
+d) Near light rain
+
+4. What is important to ensure regarding cloud entry before initiating a spin?
+a) Likely to enter clouds
+b) Not likely to enter clouds, especially during the spin
+c) Always enter clouds
+d) Cloud entry is irrelevant
+
+Video : 76 - Entry
+1. What should be done before getting the throttle to idle during a spin entry?
+a) Apply full rudder
+b) Pick up a point of reference and orientation
+c) Apply full back stick
+d) Count the number of turns
+
+2. At what airspeed should you start applying rudder during a spin entry?
+a) 30 Kts
+b) 45 Kts
+c) 60 Kts
+d) 75 Kts
+
+3. What control inputs should be applied as the aircraft enters the spin?
+a) Full opposite rudder and stick fully forward
+b) Full in-spin rudder and stick fully back
+c) Neutral rudder and stick fully back
+d) Full in-spin rudder and stick fully forward
+
+4. What should be done after counting the number of turns during a spin?
+a) Increase throttle
+b) Apply opposite rudder
+c) Take recovery action
+d) Maintain the spin
