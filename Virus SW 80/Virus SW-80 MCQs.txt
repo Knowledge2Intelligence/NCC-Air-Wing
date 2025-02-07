@@ -4159,3 +4159,394 @@ a) Maximum altitude
 b) Minimum speed
 c) VNE (Velocity Never Exceed)
 d) Maximum G-force
+
+Video : 79 - Engine Failure duting Take Off
+1. What is the correct airspeed to maintain during an engine failure during takeoff?
+A) 45 Knots
+B) 55 Knots
+C) 65 Knots
+D) 75 Knots
+
+2. If there is sufficient runway length available ahead during an engine failure during takeoff, what should you do?
+A) Continue flying
+B) Land the aircraft
+C) Turn back to the runway
+D) Increase airspeed
+
+3. What should you do to avoid obstacles during an engine failure during takeoff?
+A) Ignore them
+B) Perform abrupt maneuvers
+C) Avoid obstacles, if any, in your way
+D) Increase altitude
+
+4. What is the correct action to take with the fuel shut off valve during an engine failure during takeoff?
+A) Turn it ON
+B) Turn it OFF
+C) Leave it as it is
+D) Check for fuel leaks
+
+5. What should you do with the Master switch during an engine failure during takeoff?
+A) Turn it ON
+B) Turn it OFF
+C) Leave it as it is
+D) Check for electrical faults
+
+Video : 80 - Rough engine operation or engine failure in flight
+1. What is the correct airspeed to maintain during rough engine operation or engine failure in flight?
+A) 55 Knots
+B) 64 Knots
+C) 75 Knots
+D) 85 Knots
+
+2. What should you start doing when you experience rough engine operation or engine failure in flight?
+A) Increase altitude
+B) Start analyzing terrain below
+C) Perform aerobatic maneuvers
+D) Increase throttle
+
+3. What should you choose during rough engine operation or engine failure in flight?
+A) Highest altitude
+B) Closest airport
+C) Most appropriate site for landing out
+D) Nearest city
+
+4. What should you do if the engine fails aloft?
+A) Continue flying at the same altitude
+B) Perform a steep dive
+C) Ensure Master switch is in ON position
+D) Increase airspeed
+
+5. What should you do with the magneto switches during rough engine operation or engine failure in flight?
+A) Set one to ON and one to OFF
+B) Turn both OFF
+C) Turn both ON
+D) Leave them as they are
+
+6. What should you do with the fuel valve during rough engine operation or engine failure in flight?
+A) Turn it OFF
+B) Set it to halfway
+C) Leave it as it is
+D) Open it
+
+7. What should you do with the fuel valve during rough engine operation or engine failure in flight?
+A) Turn it OFF
+B) Set it to halfway
+C) Leave it as it is
+D) Open it
+
+8. What should you do if the engine restart is unsuccessful during rough engine operation or engine failure in flight?
+A) Perform aerobatic maneuvers
+B) Increase altitude
+C) Begin with landing out procedure immediately
+D) Turn off the Master switch
+
+Video : 81 - Emergency Landing / Landing Off Airport
+1. What should you do with the fuel valve during an emergency landing or landing off airport?
+A) Turn it ON
+B) Turn it OFF
+C) Leave it as it is
+D) Check for fuel leaks
+
+2. What should you do with the Master switch during an emergency landing or landing off airport?
+A) Turn it ON
+B) Turn it OFF
+C) Leave it as it is
+
+D) Check for electrical faults
+3. How should you approach and land during an emergency landing or landing off airport?
+A) With extreme caution, maintain normal speed
+B) With extreme caution, reduce speed
+C) With extreme caution, increase speed
+D) Without caution, maintain normal speed
+
+4. What should you do immediately after having landed during an emergency landing or landing off airport?
+A) Check the engine
+B) Leave the aircraft immediately
+C) Turn on the Master switch
+D) Check for fuel leaks
+
+Video : 82 - Engine Fire on Ground
+1. What should you do with the fuel valve during an engine fire on the ground?
+A) Turn it ON
+B) Turn it OFF
+C) Leave it as it is
+D) Check for fuel leaks
+
+2. What should you do after shutting the fuel valve during an engine fire on the ground?
+A) Continue flying
+B) Come to a full stop, engage starter, and set throttle to full power
+C) Turn off the Master switch
+D) Attempt to restart the engine
+
+3. What should you do with the battery during an engine fire on the ground?
+A) Leave it connected
+B) Disconnect it from the circuit by pulling the battery disconnection ring on the switch column
+C) Check for battery faults
+D) Turn it ON
+
+4. When should you turn off the Master switch during an engine fire on the ground?
+A) Immediately after the engine has stopped
+B) Before the engine has stopped
+C) After abandoning the aircraft
+D) Before shutting the fuel valve
+
+5. What should you do after turning off the Master switch during an engine fire on the ground?
+A) Attempt to restart the engine
+B) Check for fuel leaks
+C) Abandon the aircraft and start the fire extinguisher
+D) Turn the Master switch back ON
+
+Video : 83 -  Engine Fire in Flight
+1. What should you do with the fuel valve during an engine fire in flight?
+A) Turn it ON
+B) Turn it OFF
+C) Leave it as it is
+D) Check for fuel leaks
+
+2. What should you do with the magnetos during an engine fire in flight?
+A) Set both to ON
+B) Set both to OFF
+C) Set one to ON and one to OFF
+D) Leave them as they are
+
+3. What should you do with the throttle lever during an engine fire in flight?
+A) Set it to idle
+B) Set it to half power
+C) Set it to full power (Throttle lever fully forward)
+D) Leave it as it is
+
+4. What should you do with the avionics and Master switch during an engine fire in flight?
+A) Keep both OFF
+B) Keep both ON
+C) Keep avionics ON and Master ON as required, on approach set both OFF
+D) Turn off the avionics and Master switch immediately
+
+5. What maneuver should you perform during an engine fire in flight?
+A) Perform a loop
+B) Perform a barrel roll
+C) Perform side slip / crab maneuver in direction opposite of fire
+D) Perform a steep dive
+
+6. What should you do after performing the side slip / crab maneuver during an engine fire in flight?
+A) Attempt to restart the engine
+B) Perform emergency landing out procedures
+C) Turn off the Master switch
+D) Increase altitude
+
+Video : 84 - Smoke in Cockpit
+1. What should you do with the avionics during smoke in the cockpit?
+A) Turn them ON
+B) Turn them OFF
+C) Leave them as they are
+D) Check for faults
+
+2. What should you do with the battery during smoke in the cockpit?
+A) Leave it connected
+B) Disconnect it from the circuit
+C) Check for battery faults
+D) Turn it ON
+
+3. What should you do after disconnecting the battery during smoke in the cockpit?
+A) Attempt to restart the engine
+B) Check for fuel leaks
+C) Land as soon as possible
+D) Turn the Master switch back ON
+
+Video : 85 - Carburetor Icing
+1. What are the indications of carburetor icing?
+A) Smooth engine noises and gradual increase in power
+B) Rough engine noises and gradual loss of power
+C) Sudden engine failure
+D) Increase in fuel consumption
+
+2. At what temperature can carburetor icing occur, provided the air is highly humid?
+A) As high as +5° C
+B) As high as +10° C
+C) As high as +15° C
+D) As high as +20° C
+
+3. What should you do immediately if you suspect carburetor icing?
+A) Ascend to higher altitude
+B) Descend immediately to warmer and/or less humid air
+C) Maintain current altitude
+D) Increase throttle to full power
+
+4. What should you do in case of complete loss of power due to carburetor icing?
+A) Attempt to restart the engine
+B) Perform emergency landing out procedure
+C) Turn off the Master switch
+D) Close the fuel valve
+
+Video : 86 - Electrical System Failure
+1. What will happen to the engine in case of an electrical system failure?
+A) The engine will stop functioning
+B) The engine will continue to function due to onboard alternator and battery
+C) The engine will restart automatically
+D) The engine will function intermittently
+
+2. What will happen in case of a battery failure during an electrical system failure?
+A) The engine will stop functioning
+B) The engine will continue to function, but restart will not be possible
+C) The engine will restart automatically
+D) The engine will function intermittently
+
+3. What will happen in case of an alternator failure during an electrical system failure?
+A) The engine will stop functioning
+B) The battery will support all onboard avionics
+C) The engine will restart automatically
+D) The engine will function intermittently
+
+4. What should you do in the event of a double power failure (both alternator and battery fail)?
+A) Attempt to restart the engine
+B) Use GPS Instruments Page instruments and land normally
+C) Turn off the Master switch
+D) Close the fuel valve
+
+Video : 87 - Flutter
+1. How is flutter defined in the context of engine failure?
+A) Sudden loss of engine power
+B) Oscillation of control surfaces
+C) Increase in airspeed
+D) Decrease in altitude
+
+2. What causes flutter in an aircraft?
+A) Smooth control deflections at low speeds
+B) Abrupt control deflections at speeds close to or in excess of VNE
+C) Gradual increase in altitude
+D) Decrease in airspeed
+
+3. What are the indications of flutter in an aircraft?
+A) Smooth engine noises
+B) Ailerons, elevators, or even the whole aircraft starts to vibrate violently
+C) Increase in fuel consumption
+D) Decrease in engine RPM
+
+4. What should you do to reduce speed during flutter?
+A) Increase throttle
+B) Decrease angle of attack
+C) Increase angle of attack (pull stick back) and reduce throttle immediately
+D) Maintain current speed
+
+5. What should you do to increase load (damping) on the structure during flutter?
+A) Decrease angle of attack
+B) Increase throttle
+C) Increase load (damping) on structure
+D) Maintain current load
+
+Video : 88 - Exceeding VNE (Velocity Never Exceed)
+1. What should you do to reduce airspeed when exceeding VNE?
+A) Increase throttle
+B) Reduce airspeed slowly
+C) Maintain current speed
+D) Decrease angle of attack
+
+2. How should you continue flying after reducing airspeed when exceeding VNE?
+A) Using abrupt control deflections
+B) Using gentle control deflections
+C) Using no control deflections
+D) Using maximum control deflections
+
+3. What should you do after reducing airspeed and continuing to fly gently when exceeding VNE?
+A) Increase altitude
+B) Land safely as soon as possible
+C) Perform aerobatic maneuvers
+D) Turn off the engine
+
+4. What should you do after landing safely when exceeding VNE?
+A) Restart the engine
+B) Have aircraft verified for air worthiness
+C) Increase throttle
+D) Perform a pre-flight check
+
+Video : 89 - Ditching
+1. What should you do if forced to land on a water body?
+A) Use a different emergency procedure
+B) Use the same emergency procedure as for emergency landing/landing out
+C) Increase airspeed
+D) Turn off the engine
+
+2. What should you do with the doors before hitting the water during ditching?
+A) Keep them closed
+B) Open both doors fully
+C) Open one door
+D) Leave them as they are
+
+3. What should you do with the battery during ditching?
+A) Leave it connected
+B) Disconnect it by pulling the battery disconnection ring
+C) Check for battery faults
+D) Turn it ON
+
+4. How should you touch the water during ditching?
+A) With the highest possible speed
+B) With the slowest possible speed, possibly from a high flare situation
+C) With moderate speed
+D) With full throttle
+
+Video :  99 - Icing / Pneumatic Instrument Failure
+1. What should you do if you encounter icing conditions during flight?
+A) Continue flying at the same altitude
+B) Turn back or change altitude to exit icing conditions
+C) Increase airspeed
+D) Decrease airspeed
+
+2. What type of flight should you maintain during icing/pneumatic instrument failure?
+A) IFR flight
+B) VFR flight
+C) Night flight
+D) Instrument flight
+
+3. What should you do with the cabin heating during icing/pneumatic instrument failure?
+A) Turn it OFF
+B) Set it to low
+C) Set it to medium
+D) Set it ON
+
+4. What should you look out for during icing/pneumatic instrument failure?
+A) Signs of icing on Pitot tube
+B) Signs of fuel leaks
+C) Signs of engine overheating
+D) Signs of electrical failure
+
+5. What should you use for reference in case of pneumatic instruments failure?
+A) Altimeter
+B) Airspeed Indicator
+C) GPS information
+D) Compass
+
+6. What should you plan to do after encountering icing/pneumatic instrument failure?
+A) Continue flying to the destination
+B) Plan to land at the nearest airport
+C) Increase altitude
+D) Decrease altitude
+
+7. How should you maneuver the aircraft during icing/pneumatic instrument failure?
+A) Perform abrupt maneuvers
+B) Maneuver the aircraft gently and keep flaps at Flaps ‘0’ position
+C) Perform aerobatic maneuvers
+D) Increase airspeed
+
+Video : 100 - Electric Fuel Pump Failure
+1. What are the indications of an electric fuel pump failure?
+A) Increase in engine power
+B) Either through engine switching off or zero fuel pressure indication
+C) Increase in fuel pressure
+D) Smooth engine operation
+
+2. What will be indicated in case of partial fuel pump failure?
+A) High fuel pressure
+B) Low fuel pressure
+C) Normal fuel pressure
+D) No change in fuel pressure
+
+3. What should you attempt to do to increase fuel pressure during an electric fuel pump failure?
+A) Increase power
+B) Maintain current power
+C) Reduce power
+D) Turn off the engine
+
+Video : 101 - 106 Additional Points for Safety
+
+The End …
+ 
+
